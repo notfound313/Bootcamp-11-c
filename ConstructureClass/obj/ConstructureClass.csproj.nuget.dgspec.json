@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Calculator\\Calculator.csproj": {}
+    "c:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Calculator\\Calculator.csproj": {
+    "c:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj",
+        "projectName": "ConstructureClass",
+        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Calculator\\obj\\",
+        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

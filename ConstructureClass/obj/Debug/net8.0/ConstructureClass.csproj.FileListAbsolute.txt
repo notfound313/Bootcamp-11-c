@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\bin\Debug\net8.0\ConstructureClass.exe
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\bin\Debug\net8.0\ConstructureClass.deps.json
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\bin\Debug\net8.0\ConstructureClass.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\bin\Debug\net8.0\ConstructureClass.dll
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\bin\Debug\net8.0\ConstructureClass.pdb
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.dll
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\refint\ConstructureClass.dll
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.pdb
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ConstructureClass.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\ConstructureClass\obj\Debug\net8.0\ref\ConstructureClass.dll
