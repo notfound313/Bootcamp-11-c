@@ -1,5 +1,4 @@
-﻿using System.Net;
-using Calculator;
+﻿using Calculator;
 
 class Program
 {
@@ -7,15 +6,16 @@ class Program
 	{
 		CalculatorLib calculator = new CalculatorLib();
 		string respon;
+		int a, b, pilih;
+		int result = 0;
 
 		do
 		{
 			Console.WriteLine("Choose Menu on below");
-			Console.WriteLine("1. Multiple");
+			Console.WriteLine("1. Multiply");
 			Console.WriteLine("2. Add \n3. Divided \n4. Subtruction");
-			int pilih = int.Parse(Console.ReadLine());
-			int a, b;
-			int result = 0;
+			pilih = int.Parse(Console.ReadLine());
+			
 			Console.WriteLine("Insert Number A");
 			a = int.Parse(Console.ReadLine());
 			Console.WriteLine("Insert Number B");
@@ -41,7 +41,7 @@ class Program
 
 			}
 
-			Console.WriteLine("Result :" + result);
+			Console.WriteLine($"Result : {result}" );
 
 			Console.WriteLine("Apakah ingin mengulangi y/t");
 			respon = Console.ReadLine();
