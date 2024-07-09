@@ -1,0 +1,14 @@
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.AssemblyInfoInputs.cache
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.AssemblyInfo.cs
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.csproj.CoreCompileInputs.cache
+C:\Users\Batch 11\Desktop\Bebas\Cat\bin\Debug\net8.0\Cat.exe
+C:\Users\Batch 11\Desktop\Bebas\Cat\bin\Debug\net8.0\Cat.deps.json
+C:\Users\Batch 11\Desktop\Bebas\Cat\bin\Debug\net8.0\Cat.runtimeconfig.json
+C:\Users\Batch 11\Desktop\Bebas\Cat\bin\Debug\net8.0\Cat.dll
+C:\Users\Batch 11\Desktop\Bebas\Cat\bin\Debug\net8.0\Cat.pdb
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.dll
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\refint\Cat.dll
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.pdb
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\Cat.genruntimeconfig.cache
+C:\Users\Batch 11\Desktop\Bebas\Cat\obj\Debug\net8.0\ref\Cat.dll
