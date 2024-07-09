@@ -14,50 +14,34 @@ class Program
 			Console.WriteLine("1. Multiple");
 			Console.WriteLine("2. Add \n3. Diveded \n4. Subtruction");
 			int pilih = int.Parse(Console.ReadLine());
-			int a,b, result;
-			if (pilih == 1)
+			int a,b;
+			int result = 0;
+			Console.WriteLine("Masukan Angka A");
+			a = int.Parse(Console.ReadLine());
+			Console.WriteLine("Masukan Angka B");
+			b = int.Parse(Console.ReadLine());
+			switch (pilih)
 			{
-				Console.WriteLine("Masukan Angka A");
-				a = int.Parse(Console.ReadLine());
-				Console.WriteLine("Masukan Angka B");
-				b = int.Parse(Console.ReadLine());
-				result = calculator.Multiple(a, b);
-				Console.WriteLine(result);
-				
-				
-			}else if(pilih == 2)
-			{
-				Console.WriteLine("Masukan Angka A");
-				a = int.Parse(Console.ReadLine());
-				Console.WriteLine("Masukan Angka B");
-				b = int.Parse(Console.ReadLine());
+				case 1:
 				result = calculator.Add(a, b);
-				Console.WriteLine("Result :"+ result);
-				
-			}
-			else if(pilih == 3)
-			{
-				Console.WriteLine("Masukan Angka A");
-				a = int.Parse(Console.ReadLine());
-				Console.WriteLine("Masukan Angka B");
-				b = int.Parse(Console.ReadLine());
+				break;
+				case 2:
+				result = calculator.Multiple(a, b);
+				break;
+				case 3:
 				result = calculator.Divided(a, b);
-				Console.WriteLine("Result :"+ result);
-				
-			}else if(pilih == 4)
-			{
-				Console.WriteLine("Masukan Angka A");
-				a = int.Parse(Console.ReadLine());
-				Console.WriteLine("Masukan Angka B");
-				b = int.Parse(Console.ReadLine());
+				break;
+				case 4:
 				result = calculator.Subtraction(a, b);
-				Console.WriteLine("Result :"+ result);
+				break;
 				
-			}else
-			{
-				Console.WriteLine("Masukan tidak dibenarkan");
+				default:
+				Console.WriteLine("Masukan Salah");
+				break;
 				
 			}
+			Console.WriteLine("Result :"+ result);
+			
 			Console.WriteLine("Apakah ingin melanjutkan y/t");
 			respon = Console.ReadLine();
 			
