@@ -6,8 +6,8 @@ public class Bird : Animal
 {
 	public string wing;
 
-	public Bird(string name, string race, int age, string gender,string wing) : 
-	base(name, race, age, gender)
+	public Bird(string name, string race,string wing) : 
+	base(name, race)
 	{
 		this.wing = wing;
 

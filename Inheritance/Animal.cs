@@ -15,14 +15,22 @@ public class Animal
 		this.gender = gender;
 		
 	}
+	public Animal(string name, string race)
+	{
+		this.name = name;
+		this.race = race;
+		
+		
+	}
 	
 	public void Eat()
 	{
-		
+		Console.WriteLine("Im Eating");
 	}
 	
 	public void Poop()
 	{
+		Console.WriteLine("Im Poop");
 		
 	}
 	
