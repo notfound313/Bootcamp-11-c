@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compicition_part2\\Compicition_part2.csproj": {}
+    "c:\\Users\\Batch 11\\Desktop\\Bebas\\Inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compicition_part2\\Compicition_part2.csproj": {
+    "c:\\Users\\Batch 11\\Desktop\\Bebas\\Inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compicition_part2\\Compicition_part2.csproj",
-        "projectName": "Compicition_part2",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compicition_part2\\Compicition_part2.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Bebas\\Inheritance\\Inheritance.csproj",
+        "projectName": "Inheritance",
+        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\Inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compicition_part2\\obj\\",
+        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\Inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
