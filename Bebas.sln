@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 3", "Day 3", "{DDCC5FA9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceCompocition", "InheritanceCompocition\InheritanceCompocition.csproj", "{A4C20001-CC68-45DA-AC34-D9197B2993FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pholymorpsm", "Pholymorpsm\Pholymorpsm.csproj", "{E12A4958-831D-4ED1-83ED-B442FAF828DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12A4958-831D-4ED1-83ED-B442FAF828DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12A4958-831D-4ED1-83ED-B442FAF828DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12A4958-831D-4ED1-83ED-B442FAF828DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12A4958-831D-4ED1-83ED-B442FAF828DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\InheritanceCompocition\\InheritanceCompocition.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Pholymorpsm\\Pholymorpsm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\InheritanceCompocition\\InheritanceCompocition.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Pholymorpsm\\Pholymorpsm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\InheritanceCompocition\\InheritanceCompocition.csproj",
-        "projectName": "InheritanceCompocition",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\InheritanceCompocition\\InheritanceCompocition.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Pholymorpsm\\Pholymorpsm.csproj",
+        "projectName": "Pholymorpsm",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Pholymorpsm\\Pholymorpsm.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\InheritanceCompocition\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Pholymorpsm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

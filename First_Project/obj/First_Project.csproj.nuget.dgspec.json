@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj",
         "projectName": "First_Project",
-        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\First_Project.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\First_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
