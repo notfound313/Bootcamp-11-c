@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConstructureClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+788a387e73706607b84bda1d20ebc564c589c0d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8464156d36f295c3797c68c3fafdc0ff1f6270f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConstructureClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConstructureClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

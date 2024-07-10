@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructureClass", "ConstructureClass\ConstructureClass.csproj", "{3AD0E325-84E7-43B9-B634-55951E536EF0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compocition", "Compocition\Compocition.csproj", "{68656B6C-96D1-4E02-A091-D668C7E7827D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compicition_part2", "Compicition_part2\Compicition_part2.csproj", "{BA24C848-A9CF-473F-BBCF-93B6836C7195}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +57,10 @@ Global
 		{68656B6C-96D1-4E02-A091-D668C7E7827D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68656B6C-96D1-4E02-A091-D668C7E7827D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68656B6C-96D1-4E02-A091-D668C7E7827D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA24C848-A9CF-473F-BBCF-93B6836C7195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA24C848-A9CF-473F-BBCF-93B6836C7195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA24C848-A9CF-473F-BBCF-93B6836C7195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA24C848-A9CF-473F-BBCF-93B6836C7195}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		SolutionGuid = {8D691A74-DA6B-422E-9E84-4C069B7FDE74}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{68656B6C-96D1-4E02-A091-D668C7E7827D} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}
 		{3AD0E325-84E7-43B9-B634-55951E536EF0} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}
 		{4B030971-C04C-4D9D-9BC5-1F6BF59E1ECC} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}
 		{5EA268C1-EF5E-4522-8CCF-652D33E2A04F} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}

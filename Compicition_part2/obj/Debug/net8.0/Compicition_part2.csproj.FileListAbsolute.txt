@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\bin\Debug\net8.0\Compicition_part2.exe
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\bin\Debug\net8.0\Compicition_part2.deps.json
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\bin\Debug\net8.0\Compicition_part2.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\bin\Debug\net8.0\Compicition_part2.dll
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\bin\Debug\net8.0\Compicition_part2.pdb
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.dll
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\refint\Compicition_part2.dll
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.pdb
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\Compicition_part2.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\Compicition_part2\obj\Debug\net8.0\ref\Compicition_part2.dll

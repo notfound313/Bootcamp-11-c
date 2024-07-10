@@ -13,4 +13,8 @@ public class Engine
 		this.engineBrand = engineBrand;
 	}
 	
+	public void Start()
+	{
+		Console.WriteLine($"Start {engineBrand}");
+	}
 }

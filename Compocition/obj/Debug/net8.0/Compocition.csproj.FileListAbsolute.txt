@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\Compocition\bin\Debug\net8.0\Compocition.exe
+c:\Users\Batch 11\Desktop\Bebas\Compocition\bin\Debug\net8.0\Compocition.deps.json
+c:\Users\Batch 11\Desktop\Bebas\Compocition\bin\Debug\net8.0\Compocition.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\Compocition\bin\Debug\net8.0\Compocition.dll
+c:\Users\Batch 11\Desktop\Bebas\Compocition\bin\Debug\net8.0\Compocition.pdb
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.dll
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\refint\Compocition.dll
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.pdb
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\Compocition.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\Compocition\obj\Debug\net8.0\ref\Compocition.dll
