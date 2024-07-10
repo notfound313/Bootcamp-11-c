@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compicition_part2", "Compic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{D757FE95-140D-48B3-B88B-0FD35EFFD442}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 3", "Day 3", "{DDCC5FA9-1376-448C-8A54-98949C77674E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceCompocition", "InheritanceCompocition\InheritanceCompocition.csproj", "{A4C20001-CC68-45DA-AC34-D9197B2993FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +71,10 @@ Global
 		{D757FE95-140D-48B3-B88B-0FD35EFFD442}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D757FE95-140D-48B3-B88B-0FD35EFFD442}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D757FE95-140D-48B3-B88B-0FD35EFFD442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C20001-CC68-45DA-AC34-D9197B2993FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -75,6 +83,7 @@ Global
 		SolutionGuid = {8D691A74-DA6B-422E-9E84-4C069B7FDE74}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{BA24C848-A9CF-473F-BBCF-93B6836C7195} = {DDCC5FA9-1376-448C-8A54-98949C77674E}
 		{68656B6C-96D1-4E02-A091-D668C7E7827D} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}
 		{3AD0E325-84E7-43B9-B634-55951E536EF0} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}
 		{4B030971-C04C-4D9D-9BC5-1F6BF59E1ECC} = {88EEEC71-7E47-4CE4-81C0-CF087CEA5490}

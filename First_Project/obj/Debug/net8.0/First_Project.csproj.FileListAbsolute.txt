@@ -12,3 +12,4 @@ C:\Users\Batch 11\Desktop\Bebas\First_Project\obj\Debug\net8.0\refint\First_Proj
 C:\Users\Batch 11\Desktop\Bebas\First_Project\obj\Debug\net8.0\First_Project.pdb
 C:\Users\Batch 11\Desktop\Bebas\First_Project\obj\Debug\net8.0\First_Project.genruntimeconfig.cache
 C:\Users\Batch 11\Desktop\Bebas\First_Project\obj\Debug\net8.0\ref\First_Project.dll
+c:\Users\Batch 11\Desktop\Bebas\First_Project\obj\Debug\net8.0\First_Project.sourcelink.json

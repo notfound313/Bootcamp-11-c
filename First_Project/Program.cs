@@ -1,3 +1,30 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, Word! jan");
-Console.ReadLine();
+﻿class Home
+{
+	public static int count = 0;
+	public int total = 5;
+	public Home()
+	{
+		total += count+=1;
+	}
+	
+	public void Replace(int door){
+		total += door;
+	}
+}
+
+class Program
+{
+	static void Main()
+	{
+		int num = 6;
+		Home home = new Home();
+		home.Replace(num);
+		Console.WriteLine(home.total);
+		
+		
+		Home home1 = new Home();
+		home1.Replace(num);
+		Console.WriteLine(home1.total);
+		
+	}
+}
