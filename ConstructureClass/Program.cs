@@ -11,7 +11,11 @@
 		
 	}
 	// constructor parameter
-	public Home(int door, int window, string colour, string address)
+	public Home(int door,
+				int window,
+				string colour,
+				string address
+				)
 	{
 		this.door = door;
 		this.window = window;

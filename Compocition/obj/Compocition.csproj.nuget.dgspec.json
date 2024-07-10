@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compocition\\Compocition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compocition\\Compocition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj",
-        "projectName": "ConstructureClass",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\ConstructureClass.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compocition\\Compocition.csproj",
+        "projectName": "Compocition",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compocition\\Compocition.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\ConstructureClass\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Compocition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
