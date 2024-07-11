@@ -1,10 +1,10 @@
 ﻿class Home
 {
 	public static int count = 0;
-	public int total = 5;
+	public  int total = 5;
 	public Home()
 	{
-		total += count+=1;
+		total += count++;
 	}
 	
 	public void Replace(int door){
@@ -18,13 +18,13 @@ class Program
 	{
 		int num = 6;
 		Home home = new Home();
-		home.Replace(num);
+		// home.Replace(num);
 		Console.WriteLine(home.total);
 		
 		
-		Home home1 = new Home();
-		home1.Replace(num);
-		Console.WriteLine(home1.total);
+		// Home home1 = new Home();
+		// home1.Replace(num);
+		// Console.WriteLine(home1.total);
 		
 	}
 }

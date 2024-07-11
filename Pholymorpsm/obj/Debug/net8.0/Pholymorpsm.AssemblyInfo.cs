@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pholymorpsm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7602da9760a48a402ba12036c07a00f4a2c73dea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe56caac31e776e44d2d7aab26bfd21ee862c472")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pholymorpsm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pholymorpsm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
