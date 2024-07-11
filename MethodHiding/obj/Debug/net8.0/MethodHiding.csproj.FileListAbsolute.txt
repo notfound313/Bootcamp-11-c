@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\bin\Debug\net8.0\MethodHiding.exe
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\bin\Debug\net8.0\MethodHiding.deps.json
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\bin\Debug\net8.0\MethodHiding.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\bin\Debug\net8.0\MethodHiding.dll
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\bin\Debug\net8.0\MethodHiding.pdb
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.dll
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\refint\MethodHiding.dll
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.pdb
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\MethodHiding.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\MethodHiding\obj\Debug\net8.0\ref\MethodHiding.dll

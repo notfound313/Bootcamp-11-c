@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj": {}
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\MethodHiding\\MethodHiding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj": {
+    "C:\\Users\\Batch 11\\Desktop\\Bebas\\MethodHiding\\MethodHiding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj",
-        "projectName": "Overriding",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj",
+        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\MethodHiding\\MethodHiding.csproj",
+        "projectName": "MethodHiding",
+        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\MethodHiding\\MethodHiding.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\obj\\",
+        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\MethodHiding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"

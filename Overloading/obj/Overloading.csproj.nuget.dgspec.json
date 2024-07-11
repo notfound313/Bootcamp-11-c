@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj": {}
+    "c:\\Users\\Batch 11\\Desktop\\Bebas\\Overloading\\Overloading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj": {
+    "c:\\Users\\Batch 11\\Desktop\\Bebas\\Overloading\\Overloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj",
-        "projectName": "Overriding",
-        "projectPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\Overriding.csproj",
+        "projectUniqueName": "c:\\Users\\Batch 11\\Desktop\\Bebas\\Overloading\\Overloading.csproj",
+        "projectName": "Overloading",
+        "projectPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\Overloading\\Overloading.csproj",
         "packagesPath": "C:\\Users\\Batch 11\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Batch 11\\Desktop\\Bebas\\Overriding\\obj\\",
+        "outputPath": "c:\\Users\\Batch 11\\Desktop\\Bebas\\Overloading\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 11\\AppData\\Roaming\\NuGet\\NuGet.Config"
