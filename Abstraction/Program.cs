@@ -1,10 +1,16 @@
 ﻿abstract class Engine 
 {
 	public string brand;
+	
+	public Engine(string brand)
+	{
+		this.brand= brand;
+		
+	}
 	public abstract void Start();
 	public abstract void Stop();
 	
-	public void GenerateRotation()
+	public virtual void GenerateRotation()
 	{
 		Console.WriteLine("Menyala Abangkuh");
 	}
@@ -13,6 +19,11 @@
 }
 class Diesel : Engine
 	{
+		
+		public Diesel(string brand):base(brand)
+		{
+			
+		}
 		public override void Start()
 		{
 			
@@ -22,10 +33,21 @@ class Diesel : Engine
 		   
 		}
 
-		
+	public override void GenerateRotation()
+	{
+		base.GenerateRotation();
+		Console.WriteLine("Siap Bapak");
+	}
+
+
+	
 	}
 	class Electric : Engine
 	{
+		public Electric(string brand):base(brand)
+		{
+			
+		}
 		public override void Start()
 		{
 			
@@ -52,9 +74,10 @@ class Program
 {
 	static void Main()
 	{
-		Diesel electric = new();
+		Diesel electric = new("Toyota");
 		Car car = new(electric);
 		car.engine.GenerateRotation();
+		Console.WriteLine(car.engine.brand);
 		
 	}
 }
