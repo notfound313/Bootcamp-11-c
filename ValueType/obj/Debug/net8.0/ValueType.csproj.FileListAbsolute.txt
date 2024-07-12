@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\ValueType\bin\Debug\net8.0\ValueType.exe
+c:\Users\Batch 11\Desktop\Bebas\ValueType\bin\Debug\net8.0\ValueType.deps.json
+c:\Users\Batch 11\Desktop\Bebas\ValueType\bin\Debug\net8.0\ValueType.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\ValueType\bin\Debug\net8.0\ValueType.dll
+c:\Users\Batch 11\Desktop\Bebas\ValueType\bin\Debug\net8.0\ValueType.pdb
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.dll
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\refint\ValueType.dll
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.pdb
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ValueType.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\ValueType\obj\Debug\net8.0\ref\ValueType.dll
