@@ -18,5 +18,7 @@ class Program
 		//refrence type
 		Console.WriteLine(car.price);//8
 		Console.WriteLine(car2.price);//8
+		
+		
 	}
 }
