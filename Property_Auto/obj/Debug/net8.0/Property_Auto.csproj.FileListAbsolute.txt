@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\bin\Debug\net8.0\Property_Auto.exe
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\bin\Debug\net8.0\Property_Auto.deps.json
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\bin\Debug\net8.0\Property_Auto.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\bin\Debug\net8.0\Property_Auto.dll
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\bin\Debug\net8.0\Property_Auto.pdb
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.dll
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\refint\Property_Auto.dll
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.pdb
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\Property_Auto.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\Property_Auto\obj\Debug\net8.0\ref\Property_Auto.dll

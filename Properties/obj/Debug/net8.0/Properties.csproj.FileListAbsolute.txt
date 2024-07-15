@@ -1,0 +1,15 @@
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+c:\Users\Batch 11\Desktop\Bebas\Properties\bin\Debug\net8.0\Properties.exe
+c:\Users\Batch 11\Desktop\Bebas\Properties\bin\Debug\net8.0\Properties.deps.json
+c:\Users\Batch 11\Desktop\Bebas\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+c:\Users\Batch 11\Desktop\Bebas\Properties\bin\Debug\net8.0\Properties.dll
+c:\Users\Batch 11\Desktop\Bebas\Properties\bin\Debug\net8.0\Properties.pdb
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.dll
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\refint\Properties.dll
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.pdb
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+c:\Users\Batch 11\Desktop\Bebas\Properties\obj\Debug\net8.0\ref\Properties.dll

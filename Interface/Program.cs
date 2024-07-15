@@ -1,4 +1,7 @@
-﻿interface IActionAnimal 
+﻿using System.Reflection;
+using System.Security.Cryptography;
+
+interface IActionAnimal 
 {
 	void MakeSound();
 	void Eat();
@@ -7,15 +10,16 @@
 
  abstract class Animal  
 {
-	public string name;
-	public int age;
+	public string name ;
+	// {get => name; set => name= value;}
+	public int Age{get; set;}
 	public string race;
 	public string gender;
 	
 	public Animal(string name, int age)
 	{
 		this.name = name;
-		this.age = age;
+		Age = age;
 		
 	}
 	public Animal()
@@ -78,8 +82,11 @@ class Program
 	{
 		Bird bird = new Bird("joni",15,"bulu");
 		bird.MakeSound();
-		Cat cat = new Cat("Chika",15,"bulu");
+		bird.name = "hello";
+		bird.Age = 19;
+		Cat cat = new Cat("Chika", 9,"bulu");
 		bird.Eat();
+		Console.WriteLine(bird.Age);
 		
 		cat.MakeSound();
 		cat.Eat();
