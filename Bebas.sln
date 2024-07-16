@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ref_in_out", "ref_in_out\re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobar", "Foobar\Foobar.csproj", "{C03796D4-A0FF-4779-99E9-7E4C4612F3CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_Value_Reference", "V_Value_Reference\V_Value_Reference.csproj", "{A6C1642B-02B9-4356-9B6E-E85FD4081CE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{C03796D4-A0FF-4779-99E9-7E4C4612F3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C03796D4-A0FF-4779-99E9-7E4C4612F3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C03796D4-A0FF-4779-99E9-7E4C4612F3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6C1642B-02B9-4356-9B6E-E85FD4081CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C1642B-02B9-4356-9B6E-E85FD4081CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C1642B-02B9-4356-9B6E-E85FD4081CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C1642B-02B9-4356-9B6E-E85FD4081CE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -215,6 +221,7 @@ Global
 		SolutionGuid = {8D691A74-DA6B-422E-9E84-4C069B7FDE74}
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{A6C1642B-02B9-4356-9B6E-E85FD4081CE7} = {C6206503-0AFB-4C64-AD6C-A0E444D9D3F8}
 		{4482DB4A-A24B-4947-BFCB-67A63AE6D7F3} = {C6206503-0AFB-4C64-AD6C-A0E444D9D3F8}
 		{1B19EFA0-47BB-4158-B872-AAD24B7CAA8E} = {C6206503-0AFB-4C64-AD6C-A0E444D9D3F8}
 		{E7C8719F-C64B-4DFE-8F6C-C3FE3ED5697B} = {C6206503-0AFB-4C64-AD6C-A0E444D9D3F8}
