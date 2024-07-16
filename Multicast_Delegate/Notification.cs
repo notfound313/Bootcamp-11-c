@@ -6,4 +6,8 @@ public class Notification
 	{
 		Console.WriteLine(text);
 	}
+	public int CountNotification(int value)
+	{
+		return value;
+	}
 }

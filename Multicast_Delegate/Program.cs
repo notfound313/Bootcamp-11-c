@@ -10,6 +10,7 @@ class Program
 		
 		youtuber.subcriber += notification.SentNotification;
 		youtuber.subcriber += email.ShowText;
+		youtuber.count += notification.CountNotification;
 		
 		youtuber.UploadVideo();
 		

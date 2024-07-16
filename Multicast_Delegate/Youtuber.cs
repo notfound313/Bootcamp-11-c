@@ -1,21 +1,24 @@
-using System.Security.Cryptography.X509Certificates;
-using D.Youtuber;
 
 
+//Ini class
 public delegate void Subcriber(string text);
+public delegate int Count(int nilai);
 public class Youtuber
 
 {
 	public Subcriber subcriber;
+	public Count count;
 	
 	
 	public void UploadVideo()
 	{
 		Console.WriteLine("upload Selesai");
-		sentNotification("video baru");
+		sentNotification("video baru",1);
 	}
-	public void sentNotification(string text)
+	public void sentNotification(string text,int num)
 	{
 		subcriber(text);
+		Console.WriteLine(count(num));
+		
 	}
 }
