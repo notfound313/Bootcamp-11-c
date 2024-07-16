@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalGen", "CalGen\CalGen.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalGenClass", "CalGenClass\CalGenClass.csproj", "{FF4BDD9B-FF40-433D-A8D5-2D58F0BFF8F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{5F579A0D-C36C-4109-9BA8-0695D621C53C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{FF4BDD9B-FF40-433D-A8D5-2D58F0BFF8F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF4BDD9B-FF40-433D-A8D5-2D58F0BFF8F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF4BDD9B-FF40-433D-A8D5-2D58F0BFF8F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
