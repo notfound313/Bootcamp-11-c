@@ -87,6 +87,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalGenClass", "CalGenClass\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{5F579A0D-C36C-4109-9BA8-0695D621C53C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericAndOperator", "GenericAndOperator\GenericAndOperator.csproj", "{6BE5E299-FA44-4CB6-BC15-0728F3E422FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-Delegate", "Non-Delegate\Non-Delegate.csproj", "{C173FED1-4614-4501-9882-138E7AB19476}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{3D837E70-D438-4D2F-B757-D3C3E4CFCB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multicast_Delegate", "Multicast_Delegate\Multicast_Delegate.csproj", "{F64E19BB-72FF-463F-827B-D5BEBA5CFFE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +245,22 @@ Global
 		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F579A0D-C36C-4109-9BA8-0695D621C53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE5E299-FA44-4CB6-BC15-0728F3E422FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE5E299-FA44-4CB6-BC15-0728F3E422FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE5E299-FA44-4CB6-BC15-0728F3E422FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE5E299-FA44-4CB6-BC15-0728F3E422FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C173FED1-4614-4501-9882-138E7AB19476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C173FED1-4614-4501-9882-138E7AB19476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C173FED1-4614-4501-9882-138E7AB19476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C173FED1-4614-4501-9882-138E7AB19476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D837E70-D438-4D2F-B757-D3C3E4CFCB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D837E70-D438-4D2F-B757-D3C3E4CFCB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D837E70-D438-4D2F-B757-D3C3E4CFCB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D837E70-D438-4D2F-B757-D3C3E4CFCB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F64E19BB-72FF-463F-827B-D5BEBA5CFFE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64E19BB-72FF-463F-827B-D5BEBA5CFFE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64E19BB-72FF-463F-827B-D5BEBA5CFFE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64E19BB-72FF-463F-827B-D5BEBA5CFFE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
