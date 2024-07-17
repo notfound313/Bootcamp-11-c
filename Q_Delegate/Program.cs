@@ -1,5 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
+﻿
 public delegate void DelegateKu();
 
 class Subcriber

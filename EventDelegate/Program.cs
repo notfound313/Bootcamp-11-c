@@ -18,7 +18,7 @@ class Program
 		Subcriber sub = new();
 		Email email = new();
 		//error karena tidak bisa =
-		sub.del = email.ShowText;
+		// sub.del = email.ShowText;
 		
 		sub.del += email.ShowText;
 		
