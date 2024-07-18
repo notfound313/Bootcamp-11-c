@@ -1,19 +1,34 @@
-﻿using System;
-using System.Diagnostics;
-using System.Runtime.InteropServices;
+﻿using System.Diagnostics;
+
 using System.Text;
 
 class Program
 {
-	static void Main(string[] args)
+/// <summary>
+ /// The Main method of the Program class. This method generates a sequence of numbers from 1 to 15, and for each number:
+ /// - If the number is divisible by 3, it prints "Foo"
+ /// - If the number is divisible by 5, it prints "Bar"
+ /// - If the number is divisible by both 3 and 5, it prints "FooBar"
+ /// - Otherwise, it prints the number itself
+ /// The method also measures the time it takes to execute the loop and prints the elapsed time in milliseconds.
+ /// </summary>
+ 	static void Main(string[] args)
 	{
 		Stopwatch sw = new();
 		sw.Start();
-		int N = 1000_000; // Ubah sesuai kebutuhan
+		int N = 15;
+		StringBuilder output = new StringBuilder();
+		//buat dict untuk foobar
+		Dictionary<int, string> foobarDict = new Dictionary<int, string>
+			{
+				{3, "Foo"},
+				{5, "Bar"},
+				{15, "FooBar"}
 
+			};
 		for (int i = 1; i <= N; i++)
 		{
-			StringBuilder output = new StringBuilder();
+
 
 			if (i % 3 == 0)
 				output.Append("Foo");

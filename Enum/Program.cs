@@ -1,4 +1,7 @@
 ﻿class Program
+/// <summary>
+/// Demonstrates the usage of the DaysOfWeek and MonthsOfYear enums.
+/// </summary>
 {
 	static void Main()
 	{
