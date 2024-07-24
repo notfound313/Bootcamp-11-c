@@ -4,8 +4,8 @@
 	{
 		try
 		{
-			// string angka= "9k";
-			// int value = int.Parse(angka);
+			string angka= "9k";
+			int value = int.Parse(angka);
 			
 			int[] arr = null;
 			Console.WriteLine(arr[8]);
@@ -15,17 +15,22 @@
 		}
 		catch (NullReferenceException ex)
 		{
-			Console.WriteLine(ex.Message);
+			throw new NullReferenceException($"looh loohhhh kok kosong mas {ex.Message}");
 		}
 		catch (IndexOutOfRangeException ex)
 		{
 			Console.WriteLine(ex.Message);
 		}
-		catch(Exception e)
-		{
-			Console.WriteLine(e.Message);
+		// catch(Exception e)
+		// {
+		// 	Console.WriteLine(e.Message);
 			
+		// }
+		finally
+		{
+			Console.WriteLine("Hayolohh");
 		}
+		Console.WriteLine("halo");
 	}
 	
 }
