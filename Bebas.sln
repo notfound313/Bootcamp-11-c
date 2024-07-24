@@ -131,6 +131,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionIf", "ExceptionIf\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleCatch", "MultipleCatch\MultipleCatch.csproj", "{9CB680FE-614D-47D6-A62B-9B8CADBECD26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollectorString", "GarbageCollectorString\GarbageCollectorString.csproj", "{3B5E6DDC-EE6B-48EC-B826-5D18ADA6BD60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollStringBuilder", "GarbageCollStringBuilder\GarbageCollStringBuilder.csproj", "{EDC17C43-3914-4EEA-883F-42FEB72104D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -361,6 +365,14 @@ Global
 		{9CB680FE-614D-47D6-A62B-9B8CADBECD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CB680FE-614D-47D6-A62B-9B8CADBECD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CB680FE-614D-47D6-A62B-9B8CADBECD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5E6DDC-EE6B-48EC-B826-5D18ADA6BD60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5E6DDC-EE6B-48EC-B826-5D18ADA6BD60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5E6DDC-EE6B-48EC-B826-5D18ADA6BD60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5E6DDC-EE6B-48EC-B826-5D18ADA6BD60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDC17C43-3914-4EEA-883F-42FEB72104D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDC17C43-3914-4EEA-883F-42FEB72104D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDC17C43-3914-4EEA-883F-42FEB72104D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDC17C43-3914-4EEA-883F-42FEB72104D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

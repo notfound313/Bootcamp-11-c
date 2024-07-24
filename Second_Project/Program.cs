@@ -16,7 +16,7 @@ class Program
 	{
 		Stopwatch sw = new();
 		sw.Start();
-		int N = 15;
+		int N = 15_000;
 		StringBuilder output = new StringBuilder();
 		//buat dict untuk foobar
 		Dictionary<int, string> foobarDict = new Dictionary<int, string>
