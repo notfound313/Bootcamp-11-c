@@ -2,6 +2,7 @@
 {
 	static void Main()
 	{
+		//dilarang dipakai di C#
 		dynamic value = 3;
 		value= true;
 		value ="Strong";

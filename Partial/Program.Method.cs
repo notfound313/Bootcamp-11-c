@@ -15,4 +15,8 @@ partial class Program
 		return n%2==0?n:RandomAja(n-1);	
 		
 	}
+	static int Fibonacci(int n)
+	{
+		return Fibonacci(n-1)+Fibonacci(n-2);
+	}
 }
