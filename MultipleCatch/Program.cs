@@ -15,17 +15,17 @@
 		}
 		catch (NullReferenceException ex)
 		{
-			throw new NullReferenceException($"looh loohhhh kok kosong mas {ex.Message}");
+			Console.WriteLine($"looh loohhhh kok kosong mas {ex.Message}");
 		}
 		catch (IndexOutOfRangeException ex)
 		{
 			Console.WriteLine(ex.Message);
 		}
-		// catch(Exception e)
-		// {
-		// 	Console.WriteLine(e.Message);
+		catch(Exception e)
+		{
+			Console.WriteLine(e.Message);
 			
-		// }
+		}
 		finally
 		{
 			Console.WriteLine("Hayolohh");
