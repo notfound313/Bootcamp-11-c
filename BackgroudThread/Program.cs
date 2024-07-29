@@ -10,6 +10,10 @@
 		Thread threadScan = new Thread(Scan);
 		
 		//secara default, thread berjalan di foreground
+		//namu bisa diset dengan berjalan di Background
+		threadFax.IsBackground = true;
+		threadScan.IsBackground = true;
+		threadPrint.IsBackground = true;	
 		
 		threadPrint.Start();
 		threadFax.Start();
