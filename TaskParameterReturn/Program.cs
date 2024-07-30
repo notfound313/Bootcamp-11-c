@@ -12,6 +12,7 @@
 		Task threadScan = Task.Run(()=> Scan("gambar1"));// Task akan selesai ketika semua selesai
 		Task.WaitAll(threadPrint, threadFax, threadScan);	
 		
+		
 		//Return type
 		Console.WriteLine(threadPrint.Result);
 
