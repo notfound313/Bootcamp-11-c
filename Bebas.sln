@@ -205,6 +205,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandling", "FileHandlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteFileStream", "ReadWriteFileStream\ReadWriteFileStream.csproj", "{A112064A-8831-49D3-9BA4-FB9173615F9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{4D5C7A71-9F07-4BC8-86FA-051FF37E99D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamReader", "StreamReader\StreamReader.csproj", "{264152C4-2160-4AD6-AB22-E3BC5D617133}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -567,6 +571,14 @@ Global
 		{A112064A-8831-49D3-9BA4-FB9173615F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A112064A-8831-49D3-9BA4-FB9173615F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A112064A-8831-49D3-9BA4-FB9173615F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5C7A71-9F07-4BC8-86FA-051FF37E99D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5C7A71-9F07-4BC8-86FA-051FF37E99D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5C7A71-9F07-4BC8-86FA-051FF37E99D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5C7A71-9F07-4BC8-86FA-051FF37E99D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264152C4-2160-4AD6-AB22-E3BC5D617133}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264152C4-2160-4AD6-AB22-E3BC5D617133}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264152C4-2160-4AD6-AB22-E3BC5D617133}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264152C4-2160-4AD6-AB22-E3BC5D617133}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
