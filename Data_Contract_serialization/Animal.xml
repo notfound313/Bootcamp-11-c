@@ -1,0 +1,1 @@
+<Animal xmlns="http://schemas.datacontract.org/2004/07/" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><_age>1</_age><_color>Hitam</_color><_name>Kucing</_name></Animal>
