@@ -35,7 +35,7 @@ interface ICar
 		get { return Price; }
 		set
 		{
-			if (value < 0)
+			if (value < 6)
 			{
 				Price = 0;
 			}
@@ -44,13 +44,21 @@ interface ICar
 
 	}
 }
+class Car : ICar
+{
+	public int Price { get; set; }
+	
+}
 
 class Program 
 {
 	static void Main()
 	{
+		Car car = new();
+		car.Price = 4;
 		PrinterKasir print = new();
 		print.Print();
+		Console.WriteLine(car.Price);
 		
 	}
 }

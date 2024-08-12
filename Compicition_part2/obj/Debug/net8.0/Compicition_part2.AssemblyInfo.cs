@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Compicition_part2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58c015ce4e1aec3444cc648aa417c615c0ce6de3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+181bbeb56c2705eab559e36c7d72cf248d399b7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Compicition_part2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Compicition_part2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
