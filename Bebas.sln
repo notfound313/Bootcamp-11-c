@@ -243,6 +243,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 27", "Day 27", "{690F21
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlLite", "SqlLite\SqlLite.csproj", "{7848782A-5C15-4BD5-9AC5-44C2D762C33E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseScracth", "DataBaseScracth\DataBaseScracth.csproj", "{A5D7D0D5-2D17-448B-A5D5-ACF20783D060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -669,6 +671,10 @@ Global
 		{7848782A-5C15-4BD5-9AC5-44C2D762C33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7848782A-5C15-4BD5-9AC5-44C2D762C33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7848782A-5C15-4BD5-9AC5-44C2D762C33E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D7D0D5-2D17-448B-A5D5-ACF20783D060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D7D0D5-2D17-448B-A5D5-ACF20783D060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D7D0D5-2D17-448B-A5D5-ACF20783D060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D7D0D5-2D17-448B-A5D5-ACF20783D060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
