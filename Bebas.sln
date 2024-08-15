@@ -247,6 +247,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseScracth", "DataBase
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp", "WebApp\WebApp.csproj", "{6A08794D-C3A0-43D8-87F5-34F5B8283014}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{C125EDC9-A6EC-40C3-B071-79E364AA2448}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -681,6 +683,10 @@ Global
 		{6A08794D-C3A0-43D8-87F5-34F5B8283014}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A08794D-C3A0-43D8-87F5-34F5B8283014}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A08794D-C3A0-43D8-87F5-34F5B8283014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C125EDC9-A6EC-40C3-B071-79E364AA2448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C125EDC9-A6EC-40C3-B071-79E364AA2448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C125EDC9-A6EC-40C3-B071-79E364AA2448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C125EDC9-A6EC-40C3-B071-79E364AA2448}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
