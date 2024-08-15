@@ -1,4 +1,6 @@
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using WebApi.Mapper;
 using WebApi.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,6 +12,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<Database>(
 	options => options.UseSqlite("Data Source=DataBase.db")
 	);
+builder.Services.AddAutoMapper(typeof(MapProfile));
 
 //Add all controllers
 builder.Services.AddControllers();

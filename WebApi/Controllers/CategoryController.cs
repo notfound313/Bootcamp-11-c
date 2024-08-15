@@ -1,45 +1,52 @@
+using System.Collections.Generic;
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
+using WebApi.DTO;
 using WebApi.Models;
 using WebApi.Repository;
 
 namespace WebApi.Controllers;
 [Route("api/[controller]")]
 [ApiController]
-public class CategoryController : ControllerBase, IController<Category>
+public class CategoryController : ControllerBase, IController<CategoryDTO>
 {
 	private readonly Database _db;
-	public CategoryController(Database db)
+	private readonly IMapper _mapper;
+	public CategoryController(Database db, IMapper mapper)
 	{
 		_db = db;
+		_mapper = mapper;
+		
 	}
 
 	[HttpPost]
-	public IActionResult Add(Category entity)
+	public IActionResult Add(CategoryDTO entity)
 	{
-		_db.Categories.Add(entity);
+		Category category = _mapper.Map<Category>(entity);
+		_db.Categories.Add(category);
 		_db.SaveChanges();
-		return Ok();
+		return Ok("Successfully added");
 		
 	}
 	[HttpDelete]
 	[Route("{id}")]
 	public IActionResult Delete(int id)
 	{
-		Category category = _db.Categories.Find(id);
+		Category? category = _db.Categories.Find(id);
 		if(category == null)
 		{
 			return NotFound();
 		}
 		_db.Categories.Remove(category);
 		_db.SaveChanges();
-		return Ok();
+		return Ok("Successfully deleted");
 	}
 
 
 	[HttpGet]
 	public IActionResult GetAll()
 	{
-		List<Category> categories = _db.Categories.ToList();
+		List<CategoryDTO> categories = _mapper.Map<List<CategoryDTO>>(_db.Categories.ToList());
 		return Ok(categories);
 	}
 
@@ -47,7 +54,7 @@ public class CategoryController : ControllerBase, IController<Category>
 	[Route("{id}")]
 	public IActionResult GetById(int id)
 	{
-		Category? category = _db.Categories.Find(id);
+		CategoryDTO? category = _mapper.Map<CategoryDTO>(_db.Categories.Find(id));
 		if(category == null)
 		{
 			return NotFound();
@@ -57,7 +64,7 @@ public class CategoryController : ControllerBase, IController<Category>
 
 	[HttpPut]
 	[Route("{id}")]
-	public IActionResult Update(int id, Category entity)
+	public IActionResult Update(int id, CategoryDTO entity)
 	{
 		Category? category = _db.Categories.Find(id);
 		if(category == null)
@@ -65,8 +72,9 @@ public class CategoryController : ControllerBase, IController<Category>
 			return NotFound();
 		}
 		category.CategoryName = entity.CategoryName;
+		category.Description = entity.Description;	
 		_db.SaveChanges();
-		return Ok();
+		return Ok("Successfully updated");
 	}
 
 }
