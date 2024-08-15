@@ -17,7 +17,6 @@ public class CategoryController : Controller
 	}
 	public IActionResult Create()
 	{
-		
 		return View();
 	}
 	[HttpPost]
